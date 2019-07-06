@@ -16,7 +16,7 @@ Changes to Table: Items, RecordID: 1, Operation: Delete
 Message for observer with ID: 3
 Changes to Table: Items, RecordID: 1, Operation: Delete
 
-Observer 1 unregistered.
+Observer 2 unregistered.
 
 Message for observer with ID: 1
 Changes to Table: Items, RecordID: 2, Operation: Create
