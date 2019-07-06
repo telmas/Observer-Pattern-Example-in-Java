@@ -19,7 +19,7 @@ public class Database implements Subject {
     @Override
     public void unregisterObserver(Observer deleteObserver) {
         int observerIndex = this.observers.indexOf(deleteObserver);
-        System.out.println("\nObserver " + (observerIndex) + " unregistered.");
+        System.out.println("\nObserver " + (observerIndex + 1) + " unregistered.");
         this.observers.remove(deleteObserver);
     }
 
